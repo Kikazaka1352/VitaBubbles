@@ -13,7 +13,8 @@
 		"MoonshineIndustries",
 		"ElDuniels",
 		"Swervito",
-		"Rockstock7"
+		"Rockstock7",
+		"Kikazaka1352"
 	],
 	"content": [
 		{
@@ -2206,6 +2207,12 @@
 			"title": "Crash Bandicoot (3-in-1)",
 			"version": "1.00",
 			"author": "Rockstock7"
+		},
+		{
+			"id": "TAIKO_DX",
+			"title": "Taiko no Tatsujin Portable DX",
+			"version": "1.00",
+			"author": "Kikazaka1352"
 		}
 	]
 }
